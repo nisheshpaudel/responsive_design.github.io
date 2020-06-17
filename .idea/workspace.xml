@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f59abd8-74d9-431c-b02d-aae871bb2ffd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/landing page.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/.idea/images.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/back-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/intro-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/web-layouts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dR9BHZDdnJAZV5NkVnvIr8zgqQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f59abd8-74d9-431c-b02d-aae871bb2ffd" name="Default Changelist" comment="" />
+      <created>1592376901724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592376901724</updated>
+      <workItem from="1592376904246" duration="3634000" />
+      <workItem from="1592381745387" duration="86000" />
+      <workItem from="1592381882580" duration="11000" />
+      <workItem from="1592382071747" duration="1598000" />
+      <workItem from="1592383716635" duration="492000" />
+      <workItem from="1592385228319" duration="172000" />
+      <workItem from="1592386175736" duration="11419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="189" key="run.anything.popup" timestamp="1592381783953">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1592381783953" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1592382266948">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1592382266948" />
+  </component>
+</project>
